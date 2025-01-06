@@ -1,13 +1,13 @@
 (async function() {
     const scripts = [
-        "emulator.js",
-        "nipplejs.js",
-        "shaders.js",
-        "storage.js",
-        "gamepad.js",
-        "GameManager.js",
-        "socket.io.min.js",
-        "compression.js"
+        "https://cdn.jsdelivr.net/npm/@emulatorjs/emulatorjs@4.2.0/data/src/emulator.js",
+        "https://cdn.jsdelivr.net/npm/@emulatorjs/emulatorjs@4.2.0/data/src/nipplejs.js",
+        "https://cdn.jsdelivr.net/npm/@emulatorjs/emulatorjs@4.2.0/data/src/shaders.js",
+        "https://cdn.jsdelivr.net/npm/@emulatorjs/emulatorjs@4.2.0/data/src/storage.js",
+        "https://cdn.jsdelivr.net/npm/@emulatorjs/emulatorjs@4.2.0/data/src/gamepad.js",
+        "https://cdn.jsdelivr.net/npm/@emulatorjs/emulatorjs@4.2.0/data/src/GameManager.js",
+        "https://cdn.jsdelivr.net/npm/@emulatorjs/emulatorjs@4.2.0/data/src/socket.io.min.js",
+        "https://cdn.jsdelivr.net/npm/@emulatorjs/emulatorjs@4.2.0/data/src/compression.js"
     ];
 
     const folderPath = (path) => path.substring(0, path.length - path.split('/').pop().length);
