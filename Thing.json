@@ -1,0 +1,16 @@
+
+"companyName": "GoodMedia",
+"productName": "HappyWheels",
+"productVersion": "0.1",
+"dataUrl": "https://github.com/GoneRogueProductions/GoneRogueProductions.github.io/raw/refs/heads/main/happy-wheels/Build/HappyWheels.data.unityweb",
+"wasmCodeUrl": "https://github.com/GoneRogueProductions/GoneRogueProductions.github.io/raw/refs/heads/main/happy-wheels/Build/HappyWheels.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://raw.githubusercontent.com/GoneRogueProductions/GoneRogueProductions.github.io/refs/heads/main/happy-wheels/Build/HappyWheels.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
